@@ -1,5 +1,6 @@
 # magazine
 - 화면 기록
 
-  
-  https://github.com/gariguri/TodoList/assets/135303833/dfcf546a-87bd-420b-b024-70efb68e9827
+
+<img src="https://s3.ezgif.com/tmp/ezgif-3-24855cb50c.gif"/>
+
